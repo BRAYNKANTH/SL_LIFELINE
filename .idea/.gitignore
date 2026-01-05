@@ -1,6 +1,3 @@
-echo "/.idea/
-.gradle/
-build/
-app/build/
-local.properties
-*.keystore" > .gitignore
+# Default ignored files
+/shelf/
+/workspace.xml
