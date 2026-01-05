@@ -1,0 +1,6 @@
+echo "/.idea/
+.gradle/
+build/
+app/build/
+local.properties
+*.keystore" > .gitignore
